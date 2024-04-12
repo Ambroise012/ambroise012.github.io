@@ -13,6 +13,6 @@ redirect_from:
 
 <script>
 window.onload = function() {
-  window.location.href = 'CV.pdf';
+  window.open('CV.pdf', '_blank');
 };
 </script>
