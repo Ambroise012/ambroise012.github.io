@@ -6,8 +6,13 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<script>
-window.location.href = 'CV.pdf';
-</script>
 
 {% include base_path %}
+
+<!-- Contenu de la page -->
+
+<script>
+window.onload = function() {
+  window.location.href = 'CV.pdf';
+};
+</script>
