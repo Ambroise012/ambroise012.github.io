@@ -5,17 +5,19 @@
 {% endif %}
 <style>
   .image-container {
-      width: 300px;
-      height: 200px;
+      width: auto;
       border: 2px solid rgb(255, 255, 255);
       overflow: hidden;
+      display: flex; /* Use flexbox to align images horizontally */
   }
 
   .image-container img {
-      width: 19%;
-      height: 19%;
+      width: 19%; /* Adjust the width as needed */
+      height: auto; /* Maintain aspect ratio */
       object-fit: cover;
+      margin: 0; /* Remove any default margins */
   }
+
 </style>
 <div itemscope itemtype="http://schema.org/Person">
 
