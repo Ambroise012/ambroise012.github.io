@@ -1,14 +1,4 @@
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .image-container img {
-        width: 100%;
-        height: auto;
-    }
-  </style>
-</head>
-<body>
+
 {% include base_path %}
 
 {% if page.author and site.data.authors[page.author] %}
@@ -174,4 +164,9 @@
     Franco - Canadienne
   </div>
 </div>
-</body>
+<style>
+  .image-container img {
+      width: 100%;
+      height: auto;
+  }
+</style>
