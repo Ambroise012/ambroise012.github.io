@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Contenu de la page -->
+Version Française
+======
+<iframe src="/path/to/your/pdf/file.pdf" width="100%" height="500px"></iframe>
+<button onclick="window.open('/path/to/your/pdf/file.pdf', '_blank')">Télécharger le CV</button>
 
-<script>
-window.onload = function() {
-  window.open('CV.pdf', '_blank');
-};
-</script>
+English Version
+======
+<iframe src="/path/to/your/pdf/file.pdf" width="100%" height="500px"></iframe>
+<button onclick="window.open('/path/to/your/pdf/file.pdf', '_blank')">Download the CV</button>
