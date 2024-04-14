@@ -4,11 +4,6 @@
       <h3 class="archive__item-title" itemprop="headline">
         <a href="../files/cv.pdf" target="_blank">CVaaaaa
         </a>
-        {% if post.link %}
-          <a href="{{ post.link }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-        {% else %}
-          <a href="{{ base_path }}{{ post.url }}" rel="permalink">Lien permanent</a>
-        {% endif %}
       </h3>
     </li>
   </article>
