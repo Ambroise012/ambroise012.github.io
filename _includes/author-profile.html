@@ -1,14 +1,15 @@
+<style>
+  .image-container img {
+      width: 10%;
+      height: auto;
+  }
+</style>
 {% include base_path %}
 
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
-<style>
-    .image-container img {
-        width: 10%;
-        height: auto;
-    }
-</style>
+
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
@@ -160,7 +161,7 @@
   <div>
     <p>Nationalités :</p>
     <div class="image-container">
-      <img src="../images/canada.png">
+      <img src="../images/canada.png" alt="Fr">
     </div>
     <div class="image-container">
       <img src="../images/france.png">
