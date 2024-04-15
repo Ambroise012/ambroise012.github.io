@@ -4,11 +4,11 @@ main:
   - title: "Projets"
     url: /projets/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
+
+  - title: "ENSEA"
+    url: /ensea/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Publications"
+    url: /publications/
