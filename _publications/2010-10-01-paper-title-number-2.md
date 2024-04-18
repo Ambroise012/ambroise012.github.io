@@ -1,9 +1,9 @@
 ---
 title: "NLP : Energy cost & pruning"
 collection: publications
-permalink: /publication/pruning
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper deals with...'
-date: ''
+date: '2010-10-01'
 venue: 
 paperurl: '../.pdf'
 citation: 

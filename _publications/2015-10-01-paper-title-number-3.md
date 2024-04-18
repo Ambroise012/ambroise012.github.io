@@ -3,7 +3,7 @@ title: "TIPE CPGE PC"
 collection: publications
 permalink: /publication/tipe
 excerpt: 'This report is about RMI. This is the project that I carried out in my second year in CPGE'
-date: ''
+date: '2024-02-17'
 venue: 
 paperurl: '../files/TIPE_LIVRABLE.pdf'
 citation: 
