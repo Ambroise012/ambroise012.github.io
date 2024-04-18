@@ -3,7 +3,7 @@ title: "NLP : Energy cost & pruning"
 collection: publications
 permalink: /publication/pruning
 excerpt: 'This paper deals with...'
-date: 
+date: ''
 venue: 
 paperurl: '../.pdf'
 citation: 
