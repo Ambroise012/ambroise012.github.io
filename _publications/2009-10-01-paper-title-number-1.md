@@ -1,9 +1,9 @@
 ---
 title: "Weed recognition by deep learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/weed-recognition
 excerpt: 'This paper is the report of the 2nd year project at ENSEA.'
-date: '2024-12-01'
+date: 
 venue: 
 paperurl: '../files/Projet2A.pdf'
 citation: 
