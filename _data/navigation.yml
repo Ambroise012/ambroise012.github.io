@@ -10,5 +10,5 @@ main:
   - title: "ENSEA"
     url: /ensea/
     
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
