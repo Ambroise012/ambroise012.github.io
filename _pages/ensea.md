@@ -27,7 +27,6 @@ Classe internationale ; Majeur Signal ; Option Signal et électronique pour la m
 - Organisation de dons de sang avec les Etablissements Français du Sang (EFS)
 - Staffeur à la Kfet de l'ENSEA
 - 4L Trophy (Trésorier)
--
 
 1ère année
 ===
