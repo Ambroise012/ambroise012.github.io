@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bienvenue"
+title: "Bienvenue / Welcome"
 author_profile: true
 redirect_from: 
   - /about/
