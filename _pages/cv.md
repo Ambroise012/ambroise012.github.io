@@ -11,8 +11,8 @@ redirect_from:
 
 Version Française
 ======
-<iframe src="../files/CV.pdf" width="90%" height="700px"></iframe>
-<button onclick="window.open('../files/CV.pdf', '_blank')">Télécharger le CV</button>
+<iframe src="../files/CV_online.pdf" width="90%" height="700px"></iframe>
+<button onclick="window.open('../files/CV_online.pdf', '_blank')">Télécharger le CV</button>
 
 <!-- English Version
 ======
