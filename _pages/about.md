@@ -9,13 +9,13 @@ redirect_from:
 
 French version :
 =====
-Je suis ingénieur diplomé de ...
+Etudiant à Telecom Paris en BAC+6 en spécialisation Intelligence Artificielle : Multimodale et Autonome.
+
+Diplômé de l'ENSEA (École Nationale Supérieure de l'Électronique et de ses Applications) avec une spécialisation de dernière année en Signal et intelligence Artificielle.
 
 Ce site est dédié aux projets que j'ai effectués. Vous trouverez également, des éléments détaillant mon parcours. 
 Vous retrouverez tous les détails de mon parcours à l'ENSEA dans l'onglet ENSEA.
 
-Voici également un [lien Drive](https://drive.google.com/drive/folders/1roRPIQtmmyEAMuTksZ2ChbNrZ8y_CiYk?usp=drive_link) vers les comptes rendu et projet de ma formation de à l'ENSEA.
-  
 
 English version :
 =====

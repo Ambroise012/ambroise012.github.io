@@ -12,6 +12,11 @@ author_profile: true
 ===
 Spécialité SIA : Signal et Intelligence Artificielle
 
+Projet de recherche : Comment augmenter la robustesse des modeles face au spurious correlation ? 
+
+Machine Learning / Deep Learning / Computer Vision / Image et Video processing / 
+
+
 2e année
 ===
 Projet: Reconnaissance de mauvaise herbes par deep learning (cf projet)
@@ -32,7 +37,7 @@ Classe internationale ; Majeur Signal ; Option Signal et électronique pour la m
 ===
 **LV3 : Russe**
 
-**Tronc commun : **
+Tronc commun :
 
 Signal : mathématiques et signal, analyse de Fourier, traitement numérique du signal
 
